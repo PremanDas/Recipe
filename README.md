@@ -1,3 +1,5 @@
+# Recipe
+
 A simple recipe app to add, edit and delete recipes
 
 - Core Data is used to store recipes.
