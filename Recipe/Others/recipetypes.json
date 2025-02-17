@@ -1,0 +1,16 @@
+{
+  "recipetypes": [
+    {
+      "id": "1",
+      "type": "Pizza"
+    },
+    {
+      "id": "2",
+      "type": "Burger"
+    },
+    {
+      "id": "3",
+      "type": "Asian"
+    }
+  ]
+}
